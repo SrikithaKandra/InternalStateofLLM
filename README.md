@@ -66,4 +66,4 @@ To evaluate model robustness:
   - Altering word order.
 - These tests assess the models' ability to handle input variations and maintain performance.
 
-### The paper detailing the findings and enhancements after reproducing the project, is available in the repository's main branch under the filename Internal_State_LLM_Lying_Paper.pdf
+- The paper detailing the findings and enhancements after reproducing the project, is available in the repository's main branch under the filename Internal_State_LLM_Lying_Paper.pdf
