@@ -1,4 +1,4 @@
-# LLM Assignment: Investigating the Internal State of Large Language Models  
+# Investigating the Internal State of Large Language Models  
 
 This project delves into the intricate workings of Large Language Models (LLMs) by reproducing the paper **"The Internal State of an LLM Knows When It’s Lying"** by Amos Azaria and Tom Mitchell. This repository also includes original enhancements, detailed error analysis, and experiments involving perturbations to assess model behavior under varied inputs, demonstrating a comprehensive understanding of LLMs and their behavior.  
 
